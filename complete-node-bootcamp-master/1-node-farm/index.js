@@ -4,6 +4,7 @@ const url = require('url');
 ////////////////////////////////////////
 ////FILES
 
+
 // // Read the content from input.txt
 // const textIn = fs.readFileSync('starter/txt/input.txt', 'utf-8');
 // console.log(textIn);
