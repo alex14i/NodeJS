@@ -1,7 +1,7 @@
 const fs = require('fs');
 const http = require('http');
 const url = require('url');
-////////////////////////////////////////
+///////////////////////////////////////
 ////FILES
 
 
@@ -31,7 +31,7 @@ const url = require('url');
 //     });
 // console.log('Will read file!');
 
-////////////////////////////////////////
+///////////////////////////////////////
 ////SERVER
 const server = http.createServer ((req, res ) => {
     const pathName = req.url;
